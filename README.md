@@ -14,12 +14,12 @@ customer contacts us using different phone numbers or email addresses resulting 
 tickets for the same issue. Hence, our challenge here is to identify how to merge relevant tickets
 together to create a complete picture of the customer issue and ultimately determine the RCR.
 
-#Task
+# Task
 For each ticket, identify all contacts from each user if they have the same contact information.
 For the purpose of this question, assume that all contacts from the same Phone Number / Email
 are the same user.
 
-#Basic Concepts
+# Basic Concepts
 Each Order ID represents a transaction in Shopee.
 Each Id represents the Ticket Id made to Shopee Customer Service.
 All Phone Numbers are stored without the country code and the country code can be ignored.
